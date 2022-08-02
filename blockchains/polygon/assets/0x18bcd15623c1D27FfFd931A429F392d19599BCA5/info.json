@@ -1,0 +1,29 @@
+{
+    "name": "UNNY (Untraceable Event Token)",
+    "website": "https://unny.io/",
+    "description": "UNNY is a Real Life Engagement token. UNNY enables gamification across the entire event space, introducing unique incentives and an entirely new layer of attendee engagement.",
+    "explorer": "https://polygonscan.com/token/0x18bcd15623c1D27FfFd931A429F392d19599BCA5",
+    "type": "POLYGON",
+    "symbol": "UNNY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x18bcd15623c1D27FfFd931A429F392d19599BCA5",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Untraceable-Tokens"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/unnytoken"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/#"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/#"
+        }
+    ]
+}
